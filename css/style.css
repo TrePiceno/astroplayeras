@@ -39,14 +39,8 @@ header{
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
 }
 
-header .logo{
-    font-size: 3rem;
-    color: #333;
-    font-weight: bolder;
-}
-
-header .logo span{
-    color: var(--peach);
+.logo {
+    width: 150px;
 }
 
 header .navbar a{
